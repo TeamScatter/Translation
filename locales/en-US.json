@@ -3,6 +3,10 @@
         "ping": {
             "name": "ping",
             "description": "Pong!"
+        },
+        "config": {
+            "name": "config",
+            "description": "Configure Kaori for your server"
         }
     }
 }

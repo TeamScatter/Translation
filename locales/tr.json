@@ -3,6 +3,10 @@
         "ping": {
             "name": "ping",
             "description": "Tepki süresi"
+        },
+        "config": {
+            "name": "ayarla",
+            "description": "Sunucunuz için Kaori ayarlarını yapın"
         }
     }
 }
