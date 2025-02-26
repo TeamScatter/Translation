@@ -1,12 +1,22 @@
 {
     "commands": {
         "ping": {
-            "name": "ping",
+            "name": "ping", 
             "description": "Pong!"
         },
         "config": {
             "name": "config",
-            "description": "Configure Kaori for your server"
+            "description": "Configure Scatter for your server"
+        },
+        "profile": {
+            "name": "profile",
+            "description": "View your profile",
+            "options": {
+                "user": {
+                    "name": "user",
+                    "description": "The user to view profile"
+                }
+            }
         }
     }
 }
