@@ -5,8 +5,18 @@
             "description": "Tepki süresi"
         },
         "config": {
-            "name": "ayarla",
-            "description": "Sunucunuz için Kaori ayarlarını yapın"
+            "name": "ayarla", 
+            "description": "Sunucunuz için Scatter ayarlarını yapın"
+        },
+        "profile": {
+            "name": "profil",
+            "description": "Profilinizi görüntüleyin",
+            "options": {
+                "user": {
+                    "name": "kullanıcı",
+                    "description": "Profilini görüntülemek istediğiniz kullanıcı"
+                }
+            }
         }
     }
 }
