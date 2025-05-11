@@ -4,8 +4,8 @@
             "name": "ping", 
             "description": "Pong!"
         },
-        "config": {
-            "name": "config",
+        "dashboard": {
+            "name": "dashboard",
             "description": "Configure Scatter for your server"
         },
         "profile": {

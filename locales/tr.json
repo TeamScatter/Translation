@@ -4,8 +4,8 @@
             "name": "ping",
             "description": "Tepki süresi"
         },
-        "config": {
-            "name": "ayarla", 
+        "dashboard": {
+            "name": "ayarlar", 
             "description": "Sunucunuz için Scatter ayarlarını yapın"
         },
         "profile": {
