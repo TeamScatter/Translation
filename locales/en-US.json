@@ -6,7 +6,13 @@
         },
         "dashboard": {
             "name": "dashboard",
-            "description": "Configure Scatter for your server"
+            "description": "Configure Scatter for your server",
+            "options": {
+                "test_case": {
+                    "name": "test_case",
+                    "description": "test_case"
+                }
+            }
         },
         "profile": {
             "name": "profile",

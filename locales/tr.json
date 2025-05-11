@@ -6,7 +6,13 @@
         },
         "dashboard": {
             "name": "ayarlar", 
-            "description": "Sunucunuz için Scatter ayarlarını yapın"
+            "description": "Sunucunuz için Scatter ayarlarını yapın",
+            "options": {
+                "test_case": {
+                    "name": "test_case",
+                    "description": "test_case"
+                }
+            }
         },
         "profile": {
             "name": "profil",
